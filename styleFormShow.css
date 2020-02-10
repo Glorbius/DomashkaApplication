@@ -1,0 +1,31 @@
+html{
+  background-image:url('image/hope.jpg');
+  background-size: 100%;
+}
+
+
+#send {
+  color: #f5ca0a;
+  text-align: center;
+ 
+  margin-top:270px;
+}
+#send2{
+  font-size: 17px;
+}
+#send3 {
+  color: #f5ca0a;
+  text-align: center;
+  
+}
+#send4{
+  font-size: 17px;
+}
+#send5{
+  color: #f5ca0a;
+  text-align: center;
+  
+}
+#send6{
+  font-size: 17px;
+}

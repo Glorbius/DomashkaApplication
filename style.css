@@ -1,0 +1,35 @@
+#name{
+  text-align: center;
+}
+#spisok{
+  margin-left: 10px;
+}
+#come{
+  margin-left: 10px;
+}
+
+div{
+  color:   #edb305;
+  font-size: 17px;
+}
+a{
+  color: #f2e9ce;
+  font-size: 20px;
+}
+.member{
+  margin-left: 20px;
+}
+
+#send{
+  color: #f2e9ce;
+  margin-left: 20px;
+}
+
+#picture{
+  margin-left: 25px;
+}
+
+html{
+  background-image:url('image/hope.jpg');
+  -webkit-background-size: 100%;
+}
